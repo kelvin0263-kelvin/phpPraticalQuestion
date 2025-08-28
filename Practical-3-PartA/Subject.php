@@ -1,4 +1,6 @@
 <?php
+//Name: Tan Chun Keat
+//Student ID : 2314612
 require_once 'Observer.php';
 
 abstract class Subject
@@ -29,6 +31,10 @@ abstract class Subject
             $o->update($this);
         }
     }
+
+    public function getTemperature(){}
+
+    public function getHumidity(){}
 
 
 }

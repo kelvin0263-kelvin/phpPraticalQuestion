@@ -1,4 +1,6 @@
 <?php
+//Name: Tan Chun Keat
+//Student ID : 2314612
 require_once 'Observer.php';
 require_once 'WeatherData.php';
 require_once 'Subject.php';

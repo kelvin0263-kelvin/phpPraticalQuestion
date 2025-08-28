@@ -16,6 +16,8 @@
     </form>
 
     <?php
+    //Name: Tan Chun Keat
+//Student ID : 2314612
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         if (isset($_POST['numBag'])) {
             $numBag = $_POST['numBag'];

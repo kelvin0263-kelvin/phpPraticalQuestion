@@ -13,6 +13,8 @@
 </html>
 
     <?php
+    //Name: Tan Chun Keat
+//Student ID : 2314612
     // if ($_SERVER["REQUEST_METHOD"] == "POST") {
     //     $name = $_POST["name"];
     //     echo "Hello world, $name <br /> ";

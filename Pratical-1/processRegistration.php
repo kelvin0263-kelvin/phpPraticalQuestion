@@ -17,6 +17,8 @@
 
 
     <?php
+    //Name: Tan Chun Keat
+//Student ID : 2314612
     //declare an empty arrayx
     $errors = [];
     //ensure the method is post method

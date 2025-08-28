@@ -1,4 +1,6 @@
 <?php
+//Name: Tan Chun Keat
+//Student ID : 2314612
 require_once('dbconnection.php');
 $errors = [];
 if ($_SERVER['REQUEST_METHOD'] === "POST") {
